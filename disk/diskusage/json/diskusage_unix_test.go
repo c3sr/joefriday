@@ -17,7 +17,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/mohae/joefriday/disk/structs"
+	"github.com/rai-project/joefriday/disk/structs"
 )
 
 func TestGet(t *testing.T) {

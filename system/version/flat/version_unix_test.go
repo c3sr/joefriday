@@ -16,7 +16,7 @@ package version
 import (
 	"testing"
 
-	v "github.com/mohae/joefriday/system/version"
+	v "github.com/rai-project/joefriday/system/version"
 )
 
 func TestSerializeDeserialize(t *testing.T) {

@@ -7,9 +7,9 @@ import (
 	"github.com/cloudfoundry/gosigar"
 	meminfo "github.com/guillermo/go.procmeminfo"
 	"github.com/mohae/benchutil"
-	basic "github.com/mohae/joefriday/mem/membasic"
-	info "github.com/mohae/joefriday/mem/meminfo"
-	sysmem "github.com/mohae/joefriday/sysinfo/mem"
+	basic "github.com/rai-project/joefriday/mem/membasic"
+	info "github.com/rai-project/joefriday/mem/meminfo"
+	sysmem "github.com/rai-project/joefriday/sysinfo/mem"
 	gopsutilmem "github.com/shirou/gopsutil/mem"
 )
 

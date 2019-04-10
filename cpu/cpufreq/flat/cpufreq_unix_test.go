@@ -17,9 +17,9 @@ import (
 	"testing"
 	"time"
 
-	freq "github.com/mohae/joefriday/cpu/cpufreq"
-	"github.com/mohae/joefriday"
-	"github.com/mohae/joefriday/testinfo"
+	freq "github.com/rai-project/joefriday/cpu/cpufreq"
+	"github.com/rai-project/joefriday"
+	"github.com/rai-project/joefriday/testinfo"
 )
 
 func TestGeti75600u(t *testing.T) {

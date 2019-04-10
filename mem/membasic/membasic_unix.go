@@ -20,8 +20,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/SermoDigital/helpers"
-	joe "github.com/mohae/joefriday"
+	"github.com/rai-project/joefriday/helpers"
+	joe "github.com/rai-project/joefriday"
 )
 
 const procFile = "/proc/meminfo"

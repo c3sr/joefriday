@@ -19,7 +19,7 @@ import (
 	"syscall"
 	"time"
 
-	joe "github.com/mohae/joefriday"
+	joe "github.com/rai-project/joefriday"
 )
 
 // MemInfo holds information about system memory.

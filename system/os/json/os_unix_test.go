@@ -16,7 +16,7 @@ package os
 import (
 	"testing"
 
-	o "github.com/mohae/joefriday/system/os"
+	o "github.com/rai-project/joefriday/system/os"
 )
 
 func TestGet(t *testing.T) {

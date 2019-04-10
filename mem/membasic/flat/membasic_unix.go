@@ -18,7 +18,7 @@
 // meminfo package.
 //
 // Note: the package name is membasic and not the final element of the import
-// path (flat). 
+// path (flat).
 package membasic
 
 import (
@@ -26,11 +26,11 @@ import (
 	"sync"
 	"time"
 
-	"github.com/SermoDigital/helpers"
 	fb "github.com/google/flatbuffers/go"
-	joe "github.com/mohae/joefriday"
-	basic "github.com/mohae/joefriday/mem/membasic"
-	"github.com/mohae/joefriday/mem/membasic/flat/structs"
+	joe "github.com/rai-project/joefriday"
+	"github.com/rai-project/joefriday/helpers"
+	basic "github.com/rai-project/joefriday/mem/membasic"
+	"github.com/rai-project/joefriday/mem/membasic/flat/structs"
 )
 
 // Profiler is used to get the basic memory information as Flatbuffer

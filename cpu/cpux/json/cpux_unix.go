@@ -28,7 +28,7 @@ import (
 	"encoding/json"
 	"sync"
 
-	x "github.com/mohae/joefriday/cpu/cpux"
+	x "github.com/rai-project/joefriday/cpu/cpux"
 )
 
 // Profiler is used to process the cpuX information.

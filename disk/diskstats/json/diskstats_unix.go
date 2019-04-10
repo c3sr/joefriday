@@ -25,9 +25,9 @@ import (
 	"sync"
 	"time"
 
-	joe "github.com/mohae/joefriday"
-	stats "github.com/mohae/joefriday/disk/diskstats"
-	"github.com/mohae/joefriday/disk/structs"
+	joe "github.com/rai-project/joefriday"
+	stats "github.com/rai-project/joefriday/disk/diskstats"
+	"github.com/rai-project/joefriday/disk/structs"
 )
 
 // Profiler is used to process the /proc/diskstats file.

@@ -23,8 +23,8 @@ import (
 	"sync"
 
 	fb "github.com/google/flatbuffers/go"
-	o "github.com/mohae/joefriday/system/os"
-	"github.com/mohae/joefriday/system/os/flat/structs"
+	o "github.com/rai-project/joefriday/system/os"
+	"github.com/rai-project/joefriday/system/os/flat/structs"
 )
 
 // Profiler processes the OS release information, /etc/os-release,

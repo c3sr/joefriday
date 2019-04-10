@@ -25,9 +25,9 @@ import (
 	"time"
 
 	fb "github.com/google/flatbuffers/go"
-	joe "github.com/mohae/joefriday"
-	freq "github.com/mohae/joefriday/cpu/cpufreq"
-	"github.com/mohae/joefriday/cpu/cpufreq/flat/structs"
+	joe "github.com/rai-project/joefriday"
+	freq "github.com/rai-project/joefriday/cpu/cpufreq"
+	"github.com/rai-project/joefriday/cpu/cpufreq/flat/structs"
 )
 
 // Profiler is used to process the frequency information as Flatbuffers

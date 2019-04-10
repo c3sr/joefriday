@@ -27,10 +27,10 @@ import (
 	"time"
 
 	fb "github.com/google/flatbuffers/go"
-	joe "github.com/mohae/joefriday"
-	"github.com/mohae/joefriday/disk/structs"
-	"github.com/mohae/joefriday/disk/structs/flat"
-	usage "github.com/mohae/joefriday/disk/diskusage"
+	joe "github.com/rai-project/joefriday"
+	"github.com/rai-project/joefriday/disk/structs"
+	"github.com/rai-project/joefriday/disk/structs/flat"
+	usage "github.com/rai-project/joefriday/disk/diskusage"
 )
 
 // Profiler is used to process IO usage of the block devices using Flatbuffers.

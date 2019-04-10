@@ -24,7 +24,7 @@ import (
 	"encoding/json"
 	"sync"
 
-	info "github.com/mohae/joefriday/cpu/cpuinfo"
+	info "github.com/rai-project/joefriday/cpu/cpuinfo"
 )
 
 // Profiler is used to process the /proc/cpuinfo file as JSON serialized bytes.

@@ -18,7 +18,7 @@ import (
 	"io"
 	"sync"
 
-	joe "github.com/mohae/joefriday"
+	joe "github.com/rai-project/joefriday"
 )
 
 const etcFile = "/etc/os-release"

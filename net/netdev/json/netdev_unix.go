@@ -25,9 +25,9 @@ import (
 	"sync"
 	"time"
 
-	joe "github.com/mohae/joefriday"
-	dev "github.com/mohae/joefriday/net/netdev"
-	"github.com/mohae/joefriday/net/structs"
+	joe "github.com/rai-project/joefriday"
+	dev "github.com/rai-project/joefriday/net/netdev"
+	"github.com/rai-project/joefriday/net/structs"
 )
 
 // Profiler is used to process the network device information as JSON using the

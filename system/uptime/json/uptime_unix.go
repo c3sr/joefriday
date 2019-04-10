@@ -25,8 +25,8 @@ import (
 	"sync"
 	"time"
 
-	joe "github.com/mohae/joefriday"
-	u "github.com/mohae/joefriday/system/uptime"
+	joe "github.com/rai-project/joefriday"
+	u "github.com/rai-project/joefriday/system/uptime"
 )
 
 // Profiler processes uptime information, /proc/uptime, using JSON.

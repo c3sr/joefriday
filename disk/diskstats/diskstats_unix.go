@@ -21,9 +21,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/SermoDigital/helpers"
-	joe "github.com/mohae/joefriday"
-	"github.com/mohae/joefriday/disk/structs"
+	"github.com/rai-project/joefriday/helpers"
+	joe "github.com/rai-project/joefriday"
+	"github.com/rai-project/joefriday/disk/structs"
 )
 
 const procFile = "/proc/diskstats"

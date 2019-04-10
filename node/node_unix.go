@@ -23,7 +23,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/mohae/joefriday"
+	"github.com/rai-project/joefriday"
 )
 
 const CPUList = "cpulist"

@@ -17,7 +17,7 @@ import (
 	"testing"
 	"time"
 
-	up "github.com/mohae/joefriday/sysinfo/uptime"
+	up "github.com/rai-project/joefriday/sysinfo/uptime"
 )
 
 func TestSerializeDeserialize(t *testing.T) {

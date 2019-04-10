@@ -20,10 +20,10 @@ import (
 	"os"
 
 	"github.com/mohae/benchutil"
-	"github.com/mohae/joefriday/bench/cpu"
-	"github.com/mohae/joefriday/bench/mem"
-	"github.com/mohae/joefriday/bench/net"
-	"github.com/mohae/joefriday/bench/system"
+	"github.com/rai-project/joefriday/bench/cpu"
+	"github.com/rai-project/joefriday/bench/mem"
+	"github.com/rai-project/joefriday/bench/net"
+	"github.com/rai-project/joefriday/bench/system"
 )
 
 // flags

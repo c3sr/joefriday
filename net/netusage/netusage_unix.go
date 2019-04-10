@@ -23,10 +23,10 @@ import (
 	"sync"
 	"time"
 
-	"github.com/SermoDigital/helpers"
-	joe "github.com/mohae/joefriday"
-	"github.com/mohae/joefriday/net/netdev"
-	"github.com/mohae/joefriday/net/structs"
+	"github.com/rai-project/joefriday/helpers"
+	joe "github.com/rai-project/joefriday"
+	"github.com/rai-project/joefriday/net/netdev"
+	"github.com/rai-project/joefriday/net/structs"
 )
 
 // Profiler is used to process the network device usage.

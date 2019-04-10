@@ -1,6 +1,6 @@
 joefriday
 =========
-[![GoDoc](https://godoc.org/github.com/mohae/joefriday?status.svg)](https://godoc.org/github.com/mohae/joefriday)[![Build Status](https://travis-ci.org/mohae/joefriday.png)](https://travis-ci.org/mohae/joefriday)
+[![GoDoc](https://godoc.org/github.com/rai-project/joefriday?status.svg)](https://godoc.org/github.com/rai-project/joefriday)[![Build Status](https://travis-ci.org/rai-project/joefriday.png)](https://travis-ci.org/rai-project/joefriday)
 > "All we want are the facts, ma'am"  
 >   - Joe Friday
 

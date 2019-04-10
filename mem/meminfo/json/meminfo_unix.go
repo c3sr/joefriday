@@ -24,8 +24,8 @@ import (
 	"sync"
 	"time"
 
-	joe "github.com/mohae/joefriday"
-	mem "github.com/mohae/joefriday/mem/meminfo"
+	joe "github.com/rai-project/joefriday"
+	mem "github.com/rai-project/joefriday/mem/meminfo"
 )
 
 // Profiler is used to get the memory information, as JSON, by processing the

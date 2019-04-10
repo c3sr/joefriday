@@ -4,9 +4,9 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/mohae/joefriday/cpu/cpufreq"
-	"github.com/mohae/joefriday/cpu/cpuinfo"
-	"github.com/mohae/joefriday/processors"
+	"github.com/rai-project/joefriday/cpu/cpufreq"
+	"github.com/rai-project/joefriday/cpu/cpuinfo"
+	"github.com/rai-project/joefriday/processors"
 )
 
 const XeonE52690ModelName = "Intel(R) Xeon(R) CPU E5-2690 0 @ 2.90GHz"

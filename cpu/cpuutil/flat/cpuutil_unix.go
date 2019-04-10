@@ -29,9 +29,9 @@ import (
 	"time"
 
 	fb "github.com/google/flatbuffers/go"
-	joe "github.com/mohae/joefriday"
-	util "github.com/mohae/joefriday/cpu/cpuutil"
-	"github.com/mohae/joefriday/cpu/cpuutil/flat/structs"
+	joe "github.com/rai-project/joefriday"
+	util "github.com/rai-project/joefriday/cpu/cpuutil"
+	"github.com/rai-project/joefriday/cpu/cpuutil/flat/structs"
 )
 
 // Profiler is used to process the /proc/stats file and calculate utilization

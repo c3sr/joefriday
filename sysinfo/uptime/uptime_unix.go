@@ -18,7 +18,7 @@ import (
 	"syscall"
 	"time"
 
-	joe "github.com/mohae/joefriday"
+	joe "github.com/rai-project/joefriday"
 )
 
 // Uptime holds the current uptime and timestamp.

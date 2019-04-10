@@ -17,15 +17,15 @@ import (
 	"testing"
 
 	"github.com/mohae/benchutil"
-	load "github.com/mohae/joefriday/sysinfo/loadavg"
-	lfb "github.com/mohae/joefriday/sysinfo/loadavg/flat"
-	ljson "github.com/mohae/joefriday/sysinfo/loadavg/json"
-	"github.com/mohae/joefriday/sysinfo/mem"
-	mfb "github.com/mohae/joefriday/sysinfo/mem/flat"
-	mjson "github.com/mohae/joefriday/sysinfo/mem/json"
-	"github.com/mohae/joefriday/sysinfo/uptime"
-	ufb "github.com/mohae/joefriday/sysinfo/uptime/flat"
-	ujson "github.com/mohae/joefriday/sysinfo/uptime/json"
+	load "github.com/rai-project/joefriday/sysinfo/loadavg"
+	lfb "github.com/rai-project/joefriday/sysinfo/loadavg/flat"
+	ljson "github.com/rai-project/joefriday/sysinfo/loadavg/json"
+	"github.com/rai-project/joefriday/sysinfo/mem"
+	mfb "github.com/rai-project/joefriday/sysinfo/mem/flat"
+	mjson "github.com/rai-project/joefriday/sysinfo/mem/json"
+	"github.com/rai-project/joefriday/sysinfo/uptime"
+	ufb "github.com/rai-project/joefriday/sysinfo/uptime/flat"
+	ujson "github.com/rai-project/joefriday/sysinfo/uptime/json"
 )
 
 const (

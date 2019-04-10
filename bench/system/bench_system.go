@@ -6,12 +6,12 @@ import (
 	"github.com/DataDog/gohai/platform"
 	"github.com/cloudfoundry/gosigar"
 	"github.com/mohae/benchutil"
-	joeloadavg "github.com/mohae/joefriday/system/loadavg"
-	joeos "github.com/mohae/joefriday/system/os"
-	joeversion "github.com/mohae/joefriday/system/version"
-	joeuptime "github.com/mohae/joefriday/system/uptime"
-	sysload "github.com/mohae/joefriday/sysinfo/loadavg"
-	sysuptime "github.com/mohae/joefriday/sysinfo/uptime"
+	joeloadavg "github.com/rai-project/joefriday/system/loadavg"
+	joeos "github.com/rai-project/joefriday/system/os"
+	joeversion "github.com/rai-project/joefriday/system/version"
+	joeuptime "github.com/rai-project/joefriday/system/uptime"
+	sysload "github.com/rai-project/joefriday/sysinfo/loadavg"
+	sysuptime "github.com/rai-project/joefriday/sysinfo/uptime"
 	"github.com/shirou/gopsutil/load"
 )
 

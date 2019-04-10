@@ -17,7 +17,7 @@ import (
 	"testing"
 	"time"
 
-	stats "github.com/mohae/joefriday/cpu/cpustats"
+	stats "github.com/rai-project/joefriday/cpu/cpustats"
 )
 
 func TestGet(t *testing.T) {

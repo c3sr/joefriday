@@ -26,8 +26,8 @@ import (
 	"sync"
 
 	fb "github.com/google/flatbuffers/go"
-	numa "github.com/mohae/joefriday/node"
-	"github.com/mohae/joefriday/node/flat/structs"
+	numa "github.com/rai-project/joefriday/node"
+	"github.com/rai-project/joefriday/node/flat/structs"
 )
 
 // Profiler is used to process the node information as Flatbuffers serialized

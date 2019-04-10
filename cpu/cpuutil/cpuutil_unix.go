@@ -22,9 +22,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/SermoDigital/helpers"
-	joe "github.com/mohae/joefriday"
-	stats "github.com/mohae/joefriday/cpu/cpustats"
+	"github.com/rai-project/joefriday/helpers"
+	joe "github.com/rai-project/joefriday"
+	stats "github.com/rai-project/joefriday/cpu/cpustats"
 )
 
 // CPUUtil holds information about cpu, kernel, utilization. The first CPU

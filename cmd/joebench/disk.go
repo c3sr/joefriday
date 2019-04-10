@@ -17,13 +17,13 @@ import (
 	"testing"
 
 	"github.com/mohae/benchutil"
-	stats "github.com/mohae/joefriday/disk/diskstats"
-	sfb "github.com/mohae/joefriday/disk/diskstats/flat"
-	sjson "github.com/mohae/joefriday/disk/diskstats/json"
-	"github.com/mohae/joefriday/disk/structs"
-	usage "github.com/mohae/joefriday/disk/diskusage"
-	ufb "github.com/mohae/joefriday/disk/diskusage/flat"
-	ujson "github.com/mohae/joefriday/disk/diskusage/json"
+	stats "github.com/rai-project/joefriday/disk/diskstats"
+	sfb "github.com/rai-project/joefriday/disk/diskstats/flat"
+	sjson "github.com/rai-project/joefriday/disk/diskstats/json"
+	"github.com/rai-project/joefriday/disk/structs"
+	usage "github.com/rai-project/joefriday/disk/diskusage"
+	ufb "github.com/rai-project/joefriday/disk/diskusage/flat"
+	ujson "github.com/rai-project/joefriday/disk/diskusage/json"
 )
 
 const (
