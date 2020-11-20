@@ -17,7 +17,7 @@ import (
 	"testing"
 	"time"
 
-	u "github.com/rai-project/joefriday/system/uptime"
+	u "github.com/c3sr/joefriday/system/uptime"
 )
 
 func TestGet(t *testing.T) {

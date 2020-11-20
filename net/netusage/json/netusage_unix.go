@@ -27,9 +27,9 @@ import (
 	"sync"
 	"time"
 
-	joe "github.com/rai-project/joefriday"
-	"github.com/rai-project/joefriday/net/structs"
-	usage "github.com/rai-project/joefriday/net/netusage"
+	joe "github.com/c3sr/joefriday"
+	"github.com/c3sr/joefriday/net/structs"
+	usage "github.com/c3sr/joefriday/net/netusage"
 )
 
 // Profiler is used to process the network device usage.

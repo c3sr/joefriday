@@ -25,8 +25,8 @@ import (
 	"sync"
 	"time"
 
-	joe "github.com/rai-project/joefriday"
-	l "github.com/rai-project/joefriday/system/loadavg"
+	joe "github.com/c3sr/joefriday"
+	l "github.com/c3sr/joefriday/system/loadavg"
 )
 
 // Profiler is used to process the loadavg information, /proc/loadavg, using

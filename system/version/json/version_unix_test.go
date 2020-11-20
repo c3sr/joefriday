@@ -16,7 +16,7 @@ package version
 import (
 	"testing"
 
-	v "github.com/rai-project/joefriday/system/version"
+	v "github.com/c3sr/joefriday/system/version"
 )
 
 func TestGet(t *testing.T) {

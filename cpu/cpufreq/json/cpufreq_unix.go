@@ -25,8 +25,8 @@ import (
 	"sync"
 	"time"
 
-	joe "github.com/rai-project/joefriday"
-	freq "github.com/rai-project/joefriday/cpu/cpufreq"
+	joe "github.com/c3sr/joefriday"
+	freq "github.com/c3sr/joefriday/cpu/cpufreq"
 )
 
 // Profiler is used to process the frequency information as JSON serialized

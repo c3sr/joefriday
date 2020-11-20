@@ -28,8 +28,8 @@ import (
 	"sync"
 	"time"
 
-	joe "github.com/rai-project/joefriday"
-	util "github.com/rai-project/joefriday/cpu/cpuutil"
+	joe "github.com/c3sr/joefriday"
+	util "github.com/c3sr/joefriday/cpu/cpuutil"
 )
 
 // Profiler is used to process the /proc/stats file and calculate utilization

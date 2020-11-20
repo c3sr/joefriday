@@ -7,9 +7,9 @@ import (
 	"github.com/DataDog/gohai/memory"
 	"github.com/cloudfoundry/gosigar"
 	meminfo "github.com/guillermo/go.procmeminfo"
-	basic "github.com/rai-project/joefriday/mem/membasic"
-	info "github.com/rai-project/joefriday/mem/meminfo"
-	sysmem "github.com/rai-project/joefriday/sysinfo/mem"
+	basic "github.com/c3sr/joefriday/mem/membasic"
+	info "github.com/c3sr/joefriday/mem/meminfo"
+	sysmem "github.com/c3sr/joefriday/sysinfo/mem"
 	gopsutilmem "github.com/shirou/gopsutil/mem"
 )
 

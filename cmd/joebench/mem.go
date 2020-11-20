@@ -17,9 +17,9 @@ import (
 	"testing"
 
 	"github.com/mohae/benchutil"
-	"github.com/rai-project/joefriday/mem/meminfo"
-	mfb "github.com/rai-project/joefriday/mem/meminfo/flat"
-	mjson "github.com/rai-project/joefriday/mem/meminfo/json"
+	"github.com/c3sr/joefriday/mem/meminfo"
+	mfb "github.com/c3sr/joefriday/mem/meminfo/flat"
+	mjson "github.com/c3sr/joefriday/mem/meminfo/json"
 )
 
 const (

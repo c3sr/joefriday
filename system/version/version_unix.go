@@ -19,7 +19,7 @@ import (
 	"io"
 	"sync"
 
-	joe "github.com/rai-project/joefriday"
+	joe "github.com/c3sr/joefriday"
 )
 
 const procFile = "/proc/version"

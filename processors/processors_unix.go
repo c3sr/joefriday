@@ -35,10 +35,10 @@ import (
 	"time"
 	"unsafe"
 
-	"github.com/rai-project/joefriday/helpers"
-	joe "github.com/rai-project/joefriday"
-	"github.com/rai-project/joefriday/cpu/cpux"
-	"github.com/rai-project/joefriday/node"
+	"github.com/c3sr/joefriday/helpers"
+	joe "github.com/c3sr/joefriday"
+	"github.com/c3sr/joefriday/cpu/cpux"
+	"github.com/c3sr/joefriday/node"
 )
 
 const (

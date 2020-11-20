@@ -24,8 +24,8 @@ import (
 	"sync"
 
 	fb "github.com/google/flatbuffers/go"
-	info "github.com/rai-project/joefriday/cpu/cpuinfo"
-	"github.com/rai-project/joefriday/cpu/cpuinfo/flat/structs"
+	info "github.com/c3sr/joefriday/cpu/cpuinfo"
+	"github.com/c3sr/joefriday/cpu/cpuinfo/flat/structs"
 )
 
 // Profiler is used to process the /proc/cpuinfo file as Flatbuffers serialized

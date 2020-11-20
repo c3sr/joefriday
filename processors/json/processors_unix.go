@@ -35,7 +35,7 @@ import (
 	"encoding/json"
 	"sync"
 
-	procs "github.com/rai-project/joefriday/processors"
+	procs "github.com/c3sr/joefriday/processors"
 )
 
 // Profiler is used to get the processor information, as JSON serialized bytes,

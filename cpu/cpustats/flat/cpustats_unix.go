@@ -27,9 +27,9 @@ import (
 	"time"
 
 	fb "github.com/google/flatbuffers/go"
-	joe "github.com/rai-project/joefriday"
-	stats "github.com/rai-project/joefriday/cpu/cpustats"
-	"github.com/rai-project/joefriday/cpu/cpustats/flat/structs"
+	joe "github.com/c3sr/joefriday"
+	stats "github.com/c3sr/joefriday/cpu/cpustats"
+	"github.com/c3sr/joefriday/cpu/cpustats/flat/structs"
 )
 
 // Profiler is used to process the /proc/stats file as Flatbuffer serialized

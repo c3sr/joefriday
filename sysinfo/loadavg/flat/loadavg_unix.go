@@ -25,9 +25,9 @@ import (
 	"time"
 
 	fb "github.com/google/flatbuffers/go"
-	joe "github.com/rai-project/joefriday"
-	load "github.com/rai-project/joefriday/sysinfo/loadavg"
-	"github.com/rai-project/joefriday/sysinfo/loadavg/flat/structs"
+	joe "github.com/c3sr/joefriday"
+	load "github.com/c3sr/joefriday/sysinfo/loadavg"
+	"github.com/c3sr/joefriday/sysinfo/loadavg/flat/structs"
 )
 
 var builder = fb.NewBuilder(0)

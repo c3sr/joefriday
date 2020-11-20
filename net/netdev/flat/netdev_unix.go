@@ -25,10 +25,10 @@ import (
 	"time"
 
 	fb "github.com/google/flatbuffers/go"
-	joe "github.com/rai-project/joefriday"
-	dev "github.com/rai-project/joefriday/net/netdev"
-	"github.com/rai-project/joefriday/net/structs"
-	"github.com/rai-project/joefriday/net/structs/flat"
+	joe "github.com/c3sr/joefriday"
+	dev "github.com/c3sr/joefriday/net/netdev"
+	"github.com/c3sr/joefriday/net/structs"
+	"github.com/c3sr/joefriday/net/structs/flat"
 )
 
 // Profiler is used to process the network device information as Flatbuffer

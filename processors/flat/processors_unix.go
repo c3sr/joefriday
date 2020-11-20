@@ -35,9 +35,9 @@ import (
 	"sync"
 
 	fb "github.com/google/flatbuffers/go"
-	"github.com/rai-project/joefriday/node"
-	"github.com/rai-project/joefriday/processors"
-	"github.com/rai-project/joefriday/processors/flat/structs"
+	"github.com/c3sr/joefriday/node"
+	"github.com/c3sr/joefriday/processors"
+	"github.com/c3sr/joefriday/processors/flat/structs"
 )
 
 // Profiler is used to get the processor information, as Flatbuffers serialized

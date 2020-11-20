@@ -26,8 +26,8 @@ import (
 	"sync"
 	"time"
 
-	joe "github.com/rai-project/joefriday"
-	basic "github.com/rai-project/joefriday/mem/membasic"
+	joe "github.com/c3sr/joefriday"
+	basic "github.com/c3sr/joefriday/mem/membasic"
 )
 
 // Profiler is used to get the basic memory information, as JSON, by processing

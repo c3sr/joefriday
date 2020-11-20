@@ -16,9 +16,9 @@ package cpuinfo
 import (
 	"testing"
 
-	"github.com/rai-project/joefriday"
-	"github.com/rai-project/joefriday/cpu/cpuinfo"
-	"github.com/rai-project/joefriday/testinfo"
+	"github.com/c3sr/joefriday"
+	"github.com/c3sr/joefriday/cpu/cpuinfo"
+	"github.com/c3sr/joefriday/testinfo"
 )
 
 func TestGeti75600u(t *testing.T) {

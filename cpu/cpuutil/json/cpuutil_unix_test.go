@@ -17,7 +17,7 @@ import (
 	"testing"
 	"time"
 
-	util "github.com/rai-project/joefriday/cpu/cpuutil"
+	util "github.com/c3sr/joefriday/cpu/cpuutil"
 )
 
 func TestGet(t *testing.T) {

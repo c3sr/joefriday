@@ -16,9 +16,9 @@ package processors
 import (
 	"testing"
 
-	"github.com/rai-project/joefriday"
-	ps "github.com/rai-project/joefriday/processors"
-	"github.com/rai-project/joefriday/testinfo"
+	"github.com/c3sr/joefriday"
+	ps "github.com/c3sr/joefriday/processors"
+	"github.com/c3sr/joefriday/testinfo"
 )
 
 func Testi75600u(t *testing.T) {

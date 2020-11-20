@@ -27,8 +27,8 @@ import (
 	"sync"
 	"time"
 
-	joe "github.com/rai-project/joefriday"
-	stats "github.com/rai-project/joefriday/cpu/cpustats"
+	joe "github.com/c3sr/joefriday"
+	stats "github.com/c3sr/joefriday/cpu/cpustats"
 )
 
 // Profiler is used to process the /proc/stats file as JSON serialized bytes.

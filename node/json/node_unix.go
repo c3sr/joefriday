@@ -26,7 +26,7 @@ import (
 	"encoding/json"
 	"sync"
 
-	numa "github.com/rai-project/joefriday/node"
+	numa "github.com/c3sr/joefriday/node"
 )
 
 // Profiler is used to process the node information.

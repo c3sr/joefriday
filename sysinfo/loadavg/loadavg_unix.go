@@ -18,7 +18,7 @@ import (
 	"syscall"
 	"time"
 
-	joe "github.com/rai-project/joefriday"
+	joe "github.com/c3sr/joefriday"
 )
 
 const LoadsScale = 65536

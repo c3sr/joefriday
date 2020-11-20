@@ -20,9 +20,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/rai-project/joefriday/helpers"
-	joe "github.com/rai-project/joefriday"
-	"github.com/rai-project/joefriday/net/structs"
+	"github.com/c3sr/joefriday/helpers"
+	joe "github.com/c3sr/joefriday"
+	"github.com/c3sr/joefriday/net/structs"
 )
 
 // ProcFile is the file used by the netdev Profiler.

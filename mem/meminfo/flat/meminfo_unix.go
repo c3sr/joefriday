@@ -25,11 +25,11 @@ import (
 	"sync"
 	"time"
 
-	"github.com/rai-project/joefriday/helpers"
+	"github.com/c3sr/joefriday/helpers"
 	fb "github.com/google/flatbuffers/go"
-	joe "github.com/rai-project/joefriday"
-	mem "github.com/rai-project/joefriday/mem/meminfo"
-	"github.com/rai-project/joefriday/mem/meminfo/flat/structs"
+	joe "github.com/c3sr/joefriday"
+	mem "github.com/c3sr/joefriday/mem/meminfo"
+	"github.com/c3sr/joefriday/mem/meminfo/flat/structs"
 )
 
 // Profiler is used to get the memory information as Flatbuffer serialized

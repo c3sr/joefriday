@@ -17,7 +17,7 @@ import (
 	"testing"
 	"time"
 
-	l "github.com/rai-project/joefriday/system/loadavg"
+	l "github.com/c3sr/joefriday/system/loadavg"
 )
 
 func TestGet(t *testing.T) {

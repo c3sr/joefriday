@@ -23,8 +23,8 @@ import (
 	"encoding/json"
 	"time"
 
-	joe "github.com/rai-project/joefriday"
-	up "github.com/rai-project/joefriday/sysinfo/uptime"
+	joe "github.com/c3sr/joefriday"
+	up "github.com/c3sr/joefriday/sysinfo/uptime"
 )
 
 // Get returns the current uptime as JSON serialized bytes.

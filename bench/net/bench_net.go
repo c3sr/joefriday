@@ -5,9 +5,9 @@ import (
 
 	"github.com/DataDog/gohai/network"
 	"github.com/mohae/benchutil"
-	"github.com/rai-project/joefriday/net/netdev"
-	"github.com/rai-project/joefriday/net/structs"
-	"github.com/rai-project/joefriday/net/netusage"
+	"github.com/c3sr/joefriday/net/netdev"
+	"github.com/c3sr/joefriday/net/structs"
+	"github.com/c3sr/joefriday/net/netusage"
 	gopsutilnet "github.com/shirou/gopsutil/net"
 )
 

@@ -26,8 +26,8 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/rai-project/joefriday/helpers"
-	joe "github.com/rai-project/joefriday"
+	"github.com/c3sr/joefriday/helpers"
+	joe "github.com/c3sr/joefriday"
 )
 
 const procFile = "/proc/stat"

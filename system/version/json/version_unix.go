@@ -24,7 +24,7 @@ import (
 	"encoding/json"
 	"sync"
 
-	v "github.com/rai-project/joefriday/system/version"
+	v "github.com/c3sr/joefriday/system/version"
 )
 
 // Profiler processes the version information, /proc/version, using

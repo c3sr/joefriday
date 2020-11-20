@@ -6,8 +6,8 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/rai-project/joefriday/cpu/cpux"
-	"github.com/rai-project/joefriday/node"
+	"github.com/c3sr/joefriday/cpu/cpux"
+	"github.com/c3sr/joefriday/node"
 )
 
 const (

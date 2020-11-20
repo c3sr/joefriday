@@ -23,8 +23,8 @@ import (
 	"encoding/json"
 	"time"
 
-	joe "github.com/rai-project/joefriday"
-	m "github.com/rai-project/joefriday/sysinfo/mem"
+	joe "github.com/c3sr/joefriday"
+	m "github.com/c3sr/joefriday/sysinfo/mem"
 )
 
 // Get returns the system's memory information as JSON serialized bytes.

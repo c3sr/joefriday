@@ -27,9 +27,9 @@ import (
 	"sync"
 	"time"
 
-	joe "github.com/rai-project/joefriday"
-	"github.com/rai-project/joefriday/disk/structs"
-	usage "github.com/rai-project/joefriday/disk/diskusage"
+	joe "github.com/c3sr/joefriday"
+	"github.com/c3sr/joefriday/disk/structs"
+	usage "github.com/c3sr/joefriday/disk/diskusage"
 )
 
 // Profiler is used to process IO usage of the block devices using JSON.

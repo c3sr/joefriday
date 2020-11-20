@@ -23,10 +23,10 @@ import (
 	"sync"
 	"time"
 
-	"github.com/rai-project/joefriday/helpers"
-	joe "github.com/rai-project/joefriday"
-	stats "github.com/rai-project/joefriday/disk/diskstats"
-	"github.com/rai-project/joefriday/disk/structs"
+	"github.com/c3sr/joefriday/helpers"
+	joe "github.com/c3sr/joefriday"
+	stats "github.com/c3sr/joefriday/disk/diskstats"
+	"github.com/c3sr/joefriday/disk/structs"
 )
 
 // Profiler is used to process the IO usage of the block devices.

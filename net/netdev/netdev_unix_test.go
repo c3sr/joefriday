@@ -17,7 +17,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/rai-project/joefriday/net/structs"
+	"github.com/c3sr/joefriday/net/structs"
 )
 
 func TestGet(t *testing.T) {

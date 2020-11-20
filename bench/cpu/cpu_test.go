@@ -5,8 +5,8 @@ import (
 	"testing"
 
 	"github.com/DataDog/gohai/cpu"
-	"github.com/rai-project/joefriday/cpu/cpuinfo"
-	"github.com/rai-project/joefriday/cpu/cpustats"
+	"github.com/c3sr/joefriday/cpu/cpuinfo"
+	"github.com/c3sr/joefriday/cpu/cpustats"
 	gopsutilcpu "github.com/shirou/gopsutil/cpu"
 )
 

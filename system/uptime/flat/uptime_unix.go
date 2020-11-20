@@ -25,9 +25,9 @@ import (
 	"time"
 
 	fb "github.com/google/flatbuffers/go"
-	joe "github.com/rai-project/joefriday"
-	u "github.com/rai-project/joefriday/system/uptime"
-	"github.com/rai-project/joefriday/system/uptime/flat/structs"
+	joe "github.com/c3sr/joefriday"
+	u "github.com/c3sr/joefriday/system/uptime"
+	"github.com/c3sr/joefriday/system/uptime/flat/structs"
 )
 
 // Profiler processes the uptime information, /proc/uptime, using

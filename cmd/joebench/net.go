@@ -17,13 +17,13 @@ import (
 	"testing"
 
 	"github.com/mohae/benchutil"
-	"github.com/rai-project/joefriday/net/netdev"
-	dfb "github.com/rai-project/joefriday/net/netdev/flat"
-	djson "github.com/rai-project/joefriday/net/netdev/json"
-	"github.com/rai-project/joefriday/net/structs"
-	"github.com/rai-project/joefriday/net/netusage"
-	ufb "github.com/rai-project/joefriday/net/netusage/flat"
-	ujson "github.com/rai-project/joefriday/net/netusage/json"
+	"github.com/c3sr/joefriday/net/netdev"
+	dfb "github.com/c3sr/joefriday/net/netdev/flat"
+	djson "github.com/c3sr/joefriday/net/netdev/json"
+	"github.com/c3sr/joefriday/net/structs"
+	"github.com/c3sr/joefriday/net/netusage"
+	ufb "github.com/c3sr/joefriday/net/netusage/flat"
+	ujson "github.com/c3sr/joefriday/net/netusage/json"
 )
 
 const (

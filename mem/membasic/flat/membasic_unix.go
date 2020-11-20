@@ -27,10 +27,10 @@ import (
 	"time"
 
 	fb "github.com/google/flatbuffers/go"
-	joe "github.com/rai-project/joefriday"
-	"github.com/rai-project/joefriday/helpers"
-	basic "github.com/rai-project/joefriday/mem/membasic"
-	"github.com/rai-project/joefriday/mem/membasic/flat/structs"
+	joe "github.com/c3sr/joefriday"
+	"github.com/c3sr/joefriday/helpers"
+	basic "github.com/c3sr/joefriday/mem/membasic"
+	"github.com/c3sr/joefriday/mem/membasic/flat/structs"
 )
 
 // Profiler is used to get the basic memory information as Flatbuffer

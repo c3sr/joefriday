@@ -24,8 +24,8 @@ import (
 	"encoding/json"
 	"time"
 
-	joe "github.com/rai-project/joefriday"
-	load "github.com/rai-project/joefriday/sysinfo/loadavg"
+	joe "github.com/c3sr/joefriday"
+	load "github.com/c3sr/joefriday/sysinfo/loadavg"
 )
 
 // Get returns the current LoadAvg as JSON serialized bytes.

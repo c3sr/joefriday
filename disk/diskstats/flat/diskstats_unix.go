@@ -25,10 +25,10 @@ import (
 	"time"
 
 	fb "github.com/google/flatbuffers/go"
-	joe "github.com/rai-project/joefriday"
-	stats "github.com/rai-project/joefriday/disk/diskstats"
-	"github.com/rai-project/joefriday/disk/structs"
-	"github.com/rai-project/joefriday/disk/structs/flat"
+	joe "github.com/c3sr/joefriday"
+	stats "github.com/c3sr/joefriday/disk/diskstats"
+	"github.com/c3sr/joefriday/disk/structs"
+	"github.com/c3sr/joefriday/disk/structs/flat"
 )
 
 // Profiler is used to process the /proc/diskstast file.

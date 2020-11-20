@@ -31,7 +31,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/rai-project/joefriday"
+	"github.com/c3sr/joefriday"
 )
 
 const (

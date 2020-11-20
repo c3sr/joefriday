@@ -4,8 +4,8 @@ import (
 	"encoding/json"
 	"testing"
 
-	"github.com/rai-project/joefriday/cpu/cpux"
-	"github.com/rai-project/joefriday/testinfo"
+	"github.com/c3sr/joefriday/cpu/cpux"
+	"github.com/c3sr/joefriday/testinfo"
 )
 
 func TestCPUX(t *testing.T) {
