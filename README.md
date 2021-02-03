@@ -1,6 +1,5 @@
 joefriday
 =========
-[![Build Status](https://travis-ci.org/c3sr/joefriday.svg?branch=master)](https://travis-ci.org/c3sr/joefriday)
 > "All we want are the facts, ma'am"  
 >   - Joe Friday
 
