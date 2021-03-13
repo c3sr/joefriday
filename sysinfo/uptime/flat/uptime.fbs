@@ -1,9 +1,0 @@
-// uptime.fbs
-namespace structs;
-
-table Uptime {
-	Timestamp:long;
-    Uptime:long;
-}
-
-root_type Uptime;
